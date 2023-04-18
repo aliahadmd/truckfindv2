@@ -35,7 +35,7 @@
 		</div>
 		<div class="form-control w-full max-w-md">
 			<label for="password" class="label font-medium pb-1">
-				<span class="label-text">Password</span>
+				<span class="label-text">Password (8+ Characters and at least one Uppercase letter and one Lowercase letter)</span>
 			</label>
 			<input type="password" name="password" class="input input-bordered w-full max-w-md" />
 		</div>
